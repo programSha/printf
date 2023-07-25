@@ -1,6 +1,8 @@
 #include "main.h"
 
-
+/**
+* by John & Sharon
+*/
 
 /**
  * is_printable - Evaluates if a char is printable
