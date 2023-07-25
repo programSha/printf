@@ -1,9 +1,13 @@
 #include "main.h"
 
+/**
+* by John & Sharon
+*/
+
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
- * _printf - Printf function by John & Sharon
+ * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
  */
