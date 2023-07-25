@@ -1,4 +1,9 @@
 #include "main.h"
+
+/**
+* by John & Sharon
+*/
+
 /************************* PRINT CHAR *************************/
 /**
  * print_char - Prints a char
